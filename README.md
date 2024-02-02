@@ -1,4 +1,4 @@
-#Content-based Recommendation Engine#
+Content-based Recommendation Engine
 
 Description 
 
