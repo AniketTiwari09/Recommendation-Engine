@@ -1,0 +1,16 @@
+# Add Conda Forge as a channel
+conda-forge
+
+flask>=1.0.0
+Jinja2>=2.10.1
+nomkl=1.0=0
+numpy=1.11.*
+pandas=0.18.*
+redis=2.6.9=0
+redis-py=2.10.3=py27_0
+requests=2.20.0
+scikit-learn=0.17.*
+scipy=0.17.*
+setuptools=20.7.*
+six=1.9.*
+wheel=0.29.*
